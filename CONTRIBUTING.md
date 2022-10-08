@@ -1371,5 +1371,9 @@
 - Bio:  Undergrad Student
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
+#### Name: [Riya Tyagi](https://github.com/riyatyag-6)
 
+- Place: Amroha, Uttar Pradesh, India 
+- Bio: I am computer science undergrad student
+- GitHub: [riyatyag-6](https://github.com/riyatyag-6)
 
